@@ -1,0 +1,48 @@
+Aula 1
+
+Menu com navbar e active:
+
+<body>
+    <header class="navbar navbar-expand-lg sticky-top">
+        <div class="container">
+            <img class="navbar-brand" src="logotipo brancoAtivo 1.png"> 
+<nav>
+    <ul class="nav nav-pills">
+        <li class="nav-item">
+            <a href="#" class="nav-link active">Sobre nós</a>
+        </li>
+        <li class="nav-item">
+            <a href="#" class="nav-link">Clientes</a>
+        </li>
+        <li class="nav-item">
+            <a href="#" class="nav-link">Produtos</a>
+        </li>
+        <li class="nav-item">
+            <a href="#" class="nav-link">Contatos</a>
+        </li>
+    </ul>
+</nav>
+        </div>
+
+    </header>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+
+Aula 2 
+
+Baixa os icones do bootstrap:
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+ <i class="bi bi-house-door me-1"></i> 
+ //o me-1 é margin-end e coloca uma margin a direita no icone.
+ poderia ser -2 -3 -4 ou -5
+
+ <li class="nav-item fw-bold"> o fw-bold é negrito
+
+ <ul class="nav nav-pills d-block">
+ //o d-block é display block (em lista para cel)
+d-md-flex"> //diz que é só apartir de telas médias (display md - flex)
+
+            <nav class="navbar-collapse collapse justify-content-end" id="menu-navegacao">
+O justify-content-end coloca na direita.

@@ -1,0 +1,37 @@
+.navbar{
+    background-color:rgb(52, 126, 102)
+}
+
+.navbar-brand {
+    height:60px;
+}
+
+.nav .nav-link.active{
+    background-color:rgb(255, 253, 253);
+    color:rgb(23, 88, 67)
+}
+
+.nav .nav-link{
+    color:white;
+}
+
+body{
+    font-family: Roboto, sans-serif;
+    }
+
+.navbar-toggler {
+    background-color:white;
+}
+
+#carousel-img{
+    width:100%;
+}
+
+.section-title {
+    font-family: Quicksand, sans-serif;
+    color:rgb(23, 88, 67)
+}
+
+#sobre-nos{
+    background-color:rgba(176, 198, 191, 0.475)
+}
