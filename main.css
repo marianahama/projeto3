@@ -7,7 +7,7 @@
 }
 
 .nav .nav-link.active{
-    background-color:rgb(255, 253, 253);
+    background-color:rgba(253, 253, 253, 0.011);
     color:rgb(23, 88, 67)
 }
 
@@ -20,7 +20,7 @@ body{
     }
 
 .navbar-toggler {
-    background-color:white;
+    background-color:rgb(116, 81, 81);
 }
 
 #carousel-img{

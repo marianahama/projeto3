@@ -46,3 +46,50 @@ d-md-flex"> //diz que é só apartir de telas médias (display md - flex)
 
             <nav class="navbar-collapse collapse justify-content-end" id="menu-navegacao">
 O justify-content-end coloca na direita.
+
+Aula 3: sobre nos
+
+<div class="pt-5 pb-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-5">
+<img src="./Prancheta 6-100.jpg" class="d-block w-100 rounded" alt="Modelo com necktube Roxa">
+            </div>
+            <div class="col-md-7">
+<h2 class="section-title"> Sobre nós </h2>
+<p> 
+       Empresa manézinha de produtos personalizados. Criação e fabricação própria com controle de produção do começo ao fim.  Da elaboração do Design até a embalagem personalizada, fazemos tudo para você. Nosso portfólio de produtos conta com 5 diferentes intens exclusivos de qualidade imbatível. 
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam fugit consequatur modi mollitia esse, harum expedita aliquid dicta hic eum beatae consectetur ex similique dolores cupiditate ab voluptate ad nobis! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod quasi, blanditiis earum, sit dolor quis laudantium dicta illum corporis perspiciatis quibusdam impedit in voluptas, magnam similique corrupti? Laboriosam, fugiat dignissimos.
+</p>
+
+<p> 
+       Empresa manézinha de produtos personalizados. Criação e fabricação própria com controle de produção do começo ao fim.  Da elaboração do Design até a embalagem personalizada, fazemos tudo para você. Nosso portfólio de produtos conta com 5 diferentes intens exclusivos de qualidade imbatível. 
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam fugit consequatur modi mollitia esse, harum expedita aliquid dicta hic eum beatae consectetur ex similique dolores cupiditate ab voluptate ad nobis! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod quasi, blanditiis earum, sit dolor quis laudantium dicta illum corporis perspiciatis quibusdam impedit in voluptas, magnam similique corrupti? Laboriosam, fugiat dignissimos.
+</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+Aula 4: Seção de eventos
+ <section id="clientes" class="pt-5 pb-20">
+        <div class="container">
+            <div class="row">
+                <h2 class="section-title text-center pb-5"> Veja o que nossos clientes dizem </h2>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <p class= "fst-italic"> "Já faço à anos necktubes personalizados para minha empresa. Eles tem muito cuitado na embalagem, e pode sair da caixa e ir direto para os funcionários. Já faz parte do EPI da nossa empresa - perfeito para proteção solar do povo!"</p>
+                    <h5> José Faria - EcoSound</h5>
+                </div>
+                <div class="col-md-4">
+                    <p class= "fst-italic"> "Sucesso de vendas aqui na loja - antes mesmo de chegar já tem fila de espera. Eles são muito atenciosos e pontuais na entrega. Os lenços também vem pronto para colocar na vitrine, todos embalados individualmente e cheirosos! Além, eles fazem um preço ótimo para revendas."</p>
+                    <h5> Heloiza Campos - TubaDive</h5>
+                </div>
+                <div class="col-md-4">
+                    <p class= "fst-italic"> "A Ventosuli faz parte do meu kit de boas vindas, onde o cliente encontra um necktube personalizado com nossa logo e os principais animais do parque -todo o design feito pela ventosuli, xuxinhas de cabelo e lycra UV, além de outros produtos. É praticamente um kit ventosuli! O pessoal adora"</p>
+                    <h5> Ana Vileia - Centro de Aventuras CallHans</h5>
+                </div>
+            </div>
+        </div>
+    </section>
