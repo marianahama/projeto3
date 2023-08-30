@@ -224,3 +224,9 @@ Aula 4: Seção de eventos
         </div>
 
     </section>
+
+
+aula 6 seção de contato:
+
+para adicionar icone: <i class="bi bi-hand-thumbs-up-fill">
+
