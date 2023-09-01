@@ -56,3 +56,21 @@ color:white;
 #produtos{
     background-color:rgba(176, 198, 191, 0.475)
 }
+
+.text-colored{
+    color:rgb(23, 88, 67);
+}
+
+.social-links li{
+list-style:none;
+display: inline;
+}
+
+.social-links a{
+    text-decoration:none;
+}
+
+#fale-conosco button{
+    background-color: rgb(23, 88, 67);
+    color:white;
+}
